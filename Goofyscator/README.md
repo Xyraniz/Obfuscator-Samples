@@ -1,0 +1,1 @@
+## https://goofyscator.lua.cz/
